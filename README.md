@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 
+## I'm Lezmn.
+Welcome to my Github. I'm Lezmn. Currently studying at Kasetsart University on Bachelor of Science in Information Technology at the Kamphaeng Saen Campus
 
-<!--
-**Lezmn/Lezmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently I've been taking interest in Backend Development and as a student I'm eager to learn lots more so that's I can keep improving myself in the future and I'm also looking for opportunities to learn about other things as well 
+## Skills
+Here are some of my Skill I got while im studying here
+- Python 
+- JavaScript 
+- Flutter 
+- MySql 
+- IoT
+## My Info
 
-Here are some ideas to get you started:
+- Location: Nonthaburi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: thanabordee.pr@ku.th
